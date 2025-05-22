@@ -35,6 +35,7 @@ I firmly believe that knowledge is the most powerful tool—it knows no borders,
 
 ## 🔍 About Me
 My journey has been diverse: I studied Biomedical Engineering, competed as a high-performance Greco-Roman wrestler, and now dedicate myself to computer science. Each experience has shaped my mindset, proving that with discipline and curiosity, no goal is out of reach.
+
 ---
 
 ## 📫 Contact
