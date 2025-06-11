@@ -1,4 +1,4 @@
-# Python Engineering Portfolio 🧠🐍
+# Python Engineering Pathway 🧠🐍
 
 Welcome to my Python portfolio: a space where knowledge, creativity, and innovation come together. Here, the only limits are those of your imagination and commitment. From programming fundamentals to cutting-edge Artificial Intelligence projects, every line of code is built using the best resources and latest practices.
 ---
