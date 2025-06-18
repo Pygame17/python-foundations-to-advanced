@@ -1,6 +1,6 @@
 # Python Engineering Pathway 🧠🐍
 
-Welcome to my Python portfolio: a space where knowledge, creativity, and innovation come together. Here, the only limits are those of your imagination and commitment. From programming fundamentals to cutting-edge Artificial Intelligence projects, every line of code is built using the best resources and latest practices.
+Welcome to the space where knowledge, creativity, and innovation come together. Here, the only limits are those of your imagination and commitment. From programming fundamentals to cutting-edge Artificial Intelligence projects, every line of code is built using the best resources and latest practices.
 ---
 
 ## 📚 Table of Contents
@@ -43,5 +43,9 @@ My journey has been diverse: I studied Biomedical Engineering, competed as a hig
 - [LinkedIn](https://www.linkedin.com/in/mateo-baron-5011b8323/)
 - [Email](mailto:tuemail@ejemplo.com)
 
+---
+## Before to start coding, learn how to use GitHub
+
+Guide to use Git & Github
 ---
 
