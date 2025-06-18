@@ -44,4 +44,8 @@ My journey has been diverse: I studied Biomedical Engineering, competed as a hig
 - [Email](mailto:tuemail@ejemplo.com)
 
 ---
+## Before to start coding, learn how to use GitHub
+
+Guide to use Git & Github
+---
 
